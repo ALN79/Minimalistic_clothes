@@ -1,0 +1,67 @@
+
+body{
+    width: 100%;
+    height: auto;
+}
+
+.section-footer {
+    padding-top: 60px;
+    margin-top: 60px;
+    background: #f3f3f3;
+  }
+  
+  .section-footer ul {
+    line-height: 2;
+  }
+  
+  .section-footer .item-list-a i {
+    font-size: 18px;
+    padding-right: 4px;
+    color: #2eca6a;
+  }
+  
+  .section-footer .widget-a .w-title-a {
+    margin-bottom: 1rem;
+  }
+  
+  footer {
+    background: #f3f3f3;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  footer .copyright-footer {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+  }
+  
+  footer .credits {
+    font-size: 14px;
+ }
+ .social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-icons a i {
+    font-size: 24px;
+  }
+  
+  .whatsapp i {
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+  }
+  
+  .instagram i {
+    color: #000000;
+    margin-right: px;
+  }
+  
+  .facebook i {
+    color: #000000;
+    margin-left: 20px;
+  }
+  
+ .iconos{
+    margin-top: 30px;
+ }
